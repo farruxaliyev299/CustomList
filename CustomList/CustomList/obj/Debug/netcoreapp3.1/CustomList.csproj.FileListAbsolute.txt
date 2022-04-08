@@ -1,0 +1,14 @@
+D:\C#\CustomList\CustomList\bin\Debug\netcoreapp3.1\CustomList.exe
+D:\C#\CustomList\CustomList\bin\Debug\netcoreapp3.1\CustomList.deps.json
+D:\C#\CustomList\CustomList\bin\Debug\netcoreapp3.1\CustomList.runtimeconfig.json
+D:\C#\CustomList\CustomList\bin\Debug\netcoreapp3.1\CustomList.runtimeconfig.dev.json
+D:\C#\CustomList\CustomList\bin\Debug\netcoreapp3.1\CustomList.dll
+D:\C#\CustomList\CustomList\bin\Debug\netcoreapp3.1\CustomList.pdb
+D:\C#\CustomList\CustomList\obj\Debug\netcoreapp3.1\CustomList.csproj.AssemblyReference.cache
+D:\C#\CustomList\CustomList\obj\Debug\netcoreapp3.1\CustomList.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CustomList\CustomList\obj\Debug\netcoreapp3.1\CustomList.AssemblyInfoInputs.cache
+D:\C#\CustomList\CustomList\obj\Debug\netcoreapp3.1\CustomList.AssemblyInfo.cs
+D:\C#\CustomList\CustomList\obj\Debug\netcoreapp3.1\CustomList.csproj.CoreCompileInputs.cache
+D:\C#\CustomList\CustomList\obj\Debug\netcoreapp3.1\CustomList.dll
+D:\C#\CustomList\CustomList\obj\Debug\netcoreapp3.1\CustomList.pdb
+D:\C#\CustomList\CustomList\obj\Debug\netcoreapp3.1\CustomList.genruntimeconfig.cache
